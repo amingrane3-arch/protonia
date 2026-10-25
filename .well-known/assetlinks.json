@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.amingrane3_arch.twa",
+        "sha256_cert_fingerprints": ["4F:3B:11:63:AD:D5:C6:27:7D:21:CC:A2:B6:08:C9:2B:E3:E4:C4:72:3D:B8:38:7E:32:25:C8:E8:36:11:CF:74"]
+      }
+    }]
