@@ -2,12 +2,16 @@
   "name": "پروتونیا",
   "short_name": "پروتونیا",
   "description": "سیاره‌ی پروتونیا، همراه مطالعه و تمرکز شما",
+  "id": "/protonia/",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#f7f2e9",
   "theme_color": "#4a3f8a",
   "dir": "rtl",
   "lang": "fa",
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "icon-192.png",
@@ -18,6 +22,14 @@
       "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
     }
   ]
 }
